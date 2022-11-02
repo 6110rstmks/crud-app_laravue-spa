@@ -10,8 +10,6 @@
 <body>
 	<div id="app">
         <header-component></header-component>
-        {{-- <router-link to="/">Home</router-link>
-        <router-link to="/about">About</router-link> --}}
         <hr>
         <router-view></router-view>
     </div>
